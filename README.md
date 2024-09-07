@@ -4,5 +4,5 @@ SetUp() class: This class contains Open() and Close() Open() contains:
 2- instance from registration page to add text read from excel sheet [First name, Last name, Phone, Email, Password]
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Limitations: 
-1- Can't automate the recaptcha, can just press the recaptcha checkbox
+1- Can't automate the recaptcha, can just press the recaptcha checkbox, tried to apply this solutin but need some time to understaand it --> https://github.com/AutomateThePlanet/LambdaTest-Selenium4-Java-Tutorial/blob/main/chapter14-handling-captcha/src/test/java/captcha/CaptchaHandlingTests.java
 ----------------------------------------------------------------------------------------------------------------------------------------------------
